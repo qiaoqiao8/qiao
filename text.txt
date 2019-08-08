@@ -4,6 +4,10 @@
 
 3、git commit -m "添加1.txt"  //将文件提交到git上 
 
+4、git remote add origin https://github.com/qiaoqiao8/qiao.git   //链接github
+
+5、git push -u origin master    //将代码放到本地仓库 
+
 4、在git上找到设置/settings  在找到github pages  将none下拉换成master branch就能在网上访问页面了。
 
 
