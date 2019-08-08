@@ -1,0 +1,15 @@
+1、git status     //看下状态
+
+2、git add 1.txt  //把文件添加到缓存区
+
+3、git commit -m "添加1.txt"  //将文件提交到git上 
+
+4、在git上找到设置/settings  在找到github pages  将none下拉换成master branch就能在网上访问页面了。
+
+
+5、删除git上的文件    rm 1.txt    //删除目录
+
+
+使用说明博客
+
+https://www.cnblogs.com/smuxiaolei/p/7484678.html
